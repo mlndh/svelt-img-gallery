@@ -6,6 +6,9 @@ This is a website where I will be posting pictures of my dog. It is a image gall
 # Built with
 Svelt
 
+# Upcoming features
+Next up is a voting system for the cutes image.
+
 # How to use
  ### Open a terminal (Command Prompt or PowerShell for Windows, Terminal for macOS or Linux)
 
