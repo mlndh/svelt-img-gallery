@@ -1,38 +1,36 @@
-# create-svelte
+# svelt-img-gallery
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+# Introduction
+This is a website where I will be posting pictures of my dog. It is a image gallery built with Svelt.
 
-## Creating a project
+# Built with
+Svelt
 
-If you're seeing this, you've probably already done this step. Congrats!
+# Upcoming features
+Next up is a voting system for the cutes image.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+# How to use
+ ### Open a terminal (Command Prompt or PowerShell for Windows, Terminal for macOS or Linux)
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+### Ensure Git is installed
+ Visit https://git-scm.com to download and install console Git if not already installed
 
-## Developing
+### Clone the repository
+git clone 
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+### Navigate to the project directory
+cd svelt-img-gallery
 
-```bash
-npm run dev
+### Compile the project
+Run npm run dev -- --open to build the project and open it in your browser.
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+# Screenshots
 
-## Building
+### Desktop view
+![Screenshot 2024-09-05 113333](https://github.com/user-attachments/assets/7d163cc6-e06c-49e3-8ebc-cb1e0895624e)
 
-To create a production version of your app:
+### Mobile view 
+![Screenshot 2024-09-05 113300](https://github.com/user-attachments/assets/303583f4-dd04-4187-bc43-32768a8a62cf)
 
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+# Contributors
+Malin DH 
