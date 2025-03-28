@@ -27,10 +27,12 @@ Run npm run dev -- --open to build the project and open it in your browser.
 # Screenshots
 
 ### Desktop view
-![Screenshot 2024-09-05 113333](https://github.com/user-attachments/assets/7d163cc6-e06c-49e3-8ebc-cb1e0895624e)
+![image](https://github.com/user-attachments/assets/a54e1ae8-938f-458a-90c4-497ee024fc4b)
+
 
 ### Mobile view 
-![Screenshot 2024-09-05 113300](https://github.com/user-attachments/assets/303583f4-dd04-4187-bc43-32768a8a62cf)
+![image](https://github.com/user-attachments/assets/520c69c8-4246-47ac-862d-c72a96965a2c)
+
 
 # Contributors
 Malin DH 
